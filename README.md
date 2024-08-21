@@ -5,7 +5,7 @@ This repository includes files in support of the Education Committee of the Nati
 Includes an example of how the Poster Presenter information should be formatted as input through the shell script.
 
 ## ScoresToStudents_NAPB_2021.sh 
-Is a shell script designed to automatedly send out the Presenter Scores and Feedback from the poster competition. Some comments are included in the script to ensure it works correctly.
+Is a shell script designed to automatedly send out the Presenter Scores and Feedback from the poster competition; through a high performance cluster (HPC). Some comments are included in the script to ensure it works correctly.
 
 * It is highly suggested to test an initial run with a *.csv file to yourself to make sure that the script is indeeding sending information to all presenters.
 * Line 32 in this file can be customized for any messaged you'd like to go out to the Presenters; but was made generic to support future competitions.
